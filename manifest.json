@@ -1,0 +1,49 @@
+{
+  "manifest_version":2,
+  "applications":{
+    "gecko":{
+      "id":"solarized-cyan-caos30@sample.themes.thunderbird.net",
+      "strict_min_version":"60.0"
+    }
+  },
+  "name":"Solarized caos30 Theme",
+  "description":"Almost dark, but with a bit of color. Accent color: cyan.",
+  "version":"1.0",
+  "theme":{
+    "images":{},
+    "colors":{
+      "frame": "#00141a",
+      "frame_inactive": "#152428",
+      "tab_selected": "transparent",
+      "tab_text": "#2aa198",
+      "tab_line": "#2aa19888",
+      "tab_loading": "#dddddd",
+      "tab_background_text": "#829696",
+      "bookmark_text": "#2aa198",
+      "button_background_active":"#82969666",
+      "button_background_hover":"#ffffff18",
+      "toolbar": "#001f28",
+      "toolbar_field": "#00141a",
+      "toolbar_field_text": "#2aa198",
+      "toolbar_field_highlight": "#00141a",
+      "toolbar_field_highlight_text": "#2aa198",
+      "toolbar_field_border": "#4ac1b888",
+      "toolbar_field_focus": "#00141a",
+      "toolbar_field_text_focus": "#2aa198",
+      "toolbar_field_border_focus": "#4ac1b888",
+      "toolbar_top_separator": "#002b36",
+      "toolbar_bottom_separator": "#002b36",
+      "toolbar_vertical_separator": "#002b36",
+      "sidebar": "#002b36",
+      "sidebar_text": "#829696",
+      "sidebar_highlight": "rgba(255,255,255,.2)",
+      "sidebar_highlight_text": "#ccc",
+      "sidebar_border": "#001f28",
+      "popup": "#001217",
+      "popup_text": "#7d9b9b",
+      "popup_border": "#002d3a",
+      "popup_highlight": "#e06502",
+      "popup_highlight_text": "#111111"
+    }
+  }
+}
